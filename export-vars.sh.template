@@ -1,0 +1,4 @@
+#!/bin/bash
+export APSYSTEMS_USER="<My APSystems account>"
+export APSYSTEMS_PWD="<My APSystems password>"
+export PUSHSAFER_KEY="<My PushSafer API Key>"
