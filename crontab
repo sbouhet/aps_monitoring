@@ -1,0 +1,2 @@
+0 13 * * * /home/bouhets/aps_monitoring/check-aps.sh --notification > /home/bouhets/aps_monitoring/check-aps.log 2>&1
+0 12 * * 6 /home/bouhets/aps_monitoring/check-aps.sh --notification > /home/bouhets/aps_monitoring/check-aps.log 2>&1
